@@ -1,0 +1,11 @@
+{
+  "name": "ascadiasbackend",
+  "version": "1.0.0",
+  "description": "Back-end de la aplicación web Ascadias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcelo Fernandez",
+  "license": "ISC"
+}
