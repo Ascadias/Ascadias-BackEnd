@@ -1,15 +1,20 @@
 [
     {
         "name": "Proyecto 1",
-        "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito",
-        "image": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_960_720.jpg",
+        "description": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito",
+        "image": "https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737_960_720.jpg",
         "link": "http://cv.ascadias.com/"
     },
     {
         "name": "Proyecto 2",
-        "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito",
-        "image": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_960_720.jpg",
+        "description": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito",
+        "image": "https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg",
         "link": "http://cv.ascadias.com/"
     }
-
+    {
+        "name": "Proyecto 3",
+        "description": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito",
+        "image": "https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
+        "link": "http://cv.ascadias.com/"
+    }
 ]
