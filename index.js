@@ -18,7 +18,7 @@ app.get('/portfolio', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-    
+    res.send('Server On');
 });
 
 app.listen(port, () =>{
