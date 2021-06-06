@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Marcelo Fernandez",
+        "profession" : "Full Stack Developer",
+        "photo" : "https://scontent.fepa8-1.fna.fbcdn.net/v/t1.6435-9/117654877_4757592907591535_82589341647474021_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHTzu5SUpRwrIVjxSXYBydhMeQCmZyFLqMx5AKZnIUuo176EaGOiWlAW13mEKDzwrjzFNRyBbdDqzYS3knbdCYn&_nc_ohc=frvRgv_8En0AX_Tnima&_nc_oc=AQnCtSdNnfgL7WBZX1dMQbcEMktDU59ZUdRecoA2671FlKf8Yz6_kPBrslP-c6sMSc4&_nc_ht=scontent.fepa8-1.fna&oh=2d1641be647e515534d8fbca8551371b&oe=60E06D06",
+        "about_me" : "Soy una entusiasta de las tecnologías, amo hacer desarrollo web y confío en la colaboración entre comunidades para lograr un mejor ecosistema en el ambito de la tecnologia.",
+        "skills": [
+        "Javascript",
+        "NodeJs",
+        "ReactJS",
+        "Angular",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "MongoDB"
+        ]
+    }
+]
